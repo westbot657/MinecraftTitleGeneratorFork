@@ -182,16 +182,17 @@
   },
   {
     "id": "minecraft-sga",
+    "name": "Minecraft SGA",
     "author": "Westbot",
     "height": 44,
     "border": 268,
     "characterSpacing": 5,
     "preview": "abh",
     "faces": [
-      [22, 63]
+      [22, 64]
     ],
     "ends": [
-      [0, 22, 63, 86]
+      [0, 22, 64, 86]
     ],
     "example": [
       "enchanting",
